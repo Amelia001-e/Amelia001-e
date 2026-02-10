@@ -32,39 +32,50 @@ Estudiante de Ingeniería en Sistemas con interés en aprender y explorar las di
 ## 🧩 Habilidades Técnicas
 
 ### 📊 Datos y Bases de Datos
-![SQL Server](https://img.shields.io/badge/SQL%20Server-333333?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge)
-![MariaDB](https://img.shields.io/badge/MariaDB-333333?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-333333?style=for-the-badge)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server" title="SQL Server" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" height="45"/>
+</p>
 
 ---
 
 ### 🌐 Desarrollo Web
-![HTML](https://img.shields.io/badge/HTML-9b5cff?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-9b5cff?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-9b5cff?style=for-the-badge)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="45"/>
+</p>
 
 ---
 
 ### 🤖 Automatización y Programación
-![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-333333?style=for-the-badge)
-![Visual Basic](https://img.shields.io/badge/Visual%20Basic-333333?style=for-the-badge)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" height="45"/>
+  <img src="https://img.icons8.com/color/48/visual-basic.png" alt="Visual Basic" title="Visual Basic" height="45"/>
+</p>
 
 ---
 
 ### 📈 Análisis y Visualización
-![Power BI](https://img.shields.io/badge/Power%20BI-9b5cff?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel%20Avanzado-9b5cff?style=for-the-badge)
-![R Studio](https://img.shields.io/badge/R%20Studio-9b5cff?style=for-the-badge)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI" height="45"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" title="Tableau" height="45"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" title="Excel" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" title="R / R Studio" height="45"/>
+</p>
 
 ---
 
 ### 🛠 Herramientas y Entornos
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-333333?style=for-the-badge)
-![NetBeans](https://img.shields.io/badge/NetBeans-333333?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge)
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" title="Visual Studio" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" title="NetBeans" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" height="45"/>
+</p>
 
 ---
 
