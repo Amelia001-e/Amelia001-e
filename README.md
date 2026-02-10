@@ -6,7 +6,7 @@
 <h2 align="center">✨ Hola, soy Yessenia </h2>
 
 <p align="center">
-  🎯 <b>Enfoque:</b> Análisis de datos · SQL Server · Power BI · Automatización · Soporte CRM <br/>
+  🎯 <b>Enfoque:</b> Análisis de datos · Automatización QA · Programación  <br/>
   📍 Guatemala · 💼 Abierta a oportunidades: Data Analyst / BI / Soporte TI
 </p>
 
