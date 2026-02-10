@@ -29,27 +29,42 @@ Estudiante de Ingeniería en Sistemas con interés en aprender y explorar las di
 
 ---
 
-## 🧰 Lenguajes y tecnologías
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="55" />
-</p>
+## 🧩 Habilidades Técnicas
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="55" />
-  <img src="https://img.icons8.com/color/48/visual-basic.png" width="55" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="50" />
-</p>
+### 📊 Datos y Bases de Datos
+![SQL Server](https://img.shields.io/badge/SQL%20Server-333333?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/MariaDB-333333?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-333333?style=for-the-badge)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-9b5cff?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CRM-Soporte%20%26%20Calidad-9b5cff?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Excel-Avanzado-9b5cff?style=for-the-badge">
-</p>
+---
+
+### 🌐 Desarrollo Web
+![HTML](https://img.shields.io/badge/HTML-9b5cff?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-9b5cff?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-9b5cff?style=for-the-badge)
+
+---
+
+### 🤖 Automatización y Programación
+![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-333333?style=for-the-badge)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-333333?style=for-the-badge)
+
+---
+
+### 📈 Análisis y Visualización
+![Power BI](https://img.shields.io/badge/Power%20BI-9b5cff?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel%20Avanzado-9b5cff?style=for-the-badge)
+![R Studio](https://img.shields.io/badge/R%20Studio-9b5cff?style=for-the-badge)
+
+---
+
+### 🛠 Herramientas y Entornos
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-333333?style=for-the-badge)
+![NetBeans](https://img.shields.io/badge/NetBeans-333333?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge)
+
 
 ---
 
