@@ -61,11 +61,6 @@ Soy estudiante de **Ingeniería en Sistemas** con experiencia en **análisis de 
 - **Automatización de control de calidad** — validación de datos y consistencia (Python)  
   👉 <https://github.com/Amelia001-e/Automatizacion-de-control-de-calidad>
 
-- **Arquitectura** — documentación y sistemas automatizados  
-  👉 <https://github.com/Amelia001-e/Arquitectura>
-
-- **DW_Proyecto1** — planificación y fundamentos aplicados  
-  👉 <https://github.com/Amelia001-e/DW_Proyecto1>
 
 ---
 
