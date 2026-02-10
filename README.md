@@ -25,7 +25,7 @@
 ---
 
 ## 🧠 Perfil Profesional
-Soy estudiante de **Ingeniería en Sistemas** con experiencia en **análisis de datos**, **validación de información**, **reportería con SQL** y creación de **dashboards en Power BI**.  
+Estudiante de Ingeniería en Sistemas con interés en aprender y explorar las distintas ramas de la tecnología. Busco adquirir conocimientos en varias áreas para desarrollar un perfil integral y, con el tiempo, especializarme sin perder el enfoque de seguir aprendiendo de forma continua.
 
 ---
 
