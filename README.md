@@ -26,7 +26,6 @@
 
 ## 🧠 Perfil Profesional
 Soy estudiante de **Ingeniería en Sistemas** con experiencia en **análisis de datos**, **validación de información**, **reportería con SQL** y creación de **dashboards en Power BI**.  
-Me apasiona transformar datos en información clara y útil para la toma de decisiones.
 
 ---
 
@@ -95,5 +94,3 @@ Me apasiona transformar datos en información clara y útil para la toma de deci
 
 - [ ] Cada repositorio con README claro y detallado  
 - [ ] Carpeta `/docs` con capturas o documentación  
-- [ ] Proyectos con casos reales y conclusiones  
-- [ ] Evidencia de dashboards y análisis  
