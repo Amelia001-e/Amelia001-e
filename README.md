@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Yessenia%20Carrillo&fontAlign=50&fontAlignY=35&color=9b5cff&desc=Data%20%7C%20SQL%20Server%20%7C%20Power%20BI%20%7C%20Automatización&descAlign=50&descAlignY=60" />
 </p>
 
-<h2 align="center">✨ Hola, soy Yessenia Carrillo</h2>
+<h2 align="center">✨ Hola, soy Yessenia </h2>
 
 <p align="center">
   🎯 <b>Enfoque:</b> Análisis de datos · SQL Server · Power BI · Automatización · Soporte CRM <br/>
