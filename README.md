@@ -109,9 +109,4 @@ Estudiante de Ingeniería en Sistemas con interés en aprender y explorar las di
 - Subir evidencia de resultados (capturas y dashboards)  
 - Automatizar validaciones y generación de reportes  
 
----
 
-### 📌 Checklist para un portafolio profesional
-
-- [ ] Cada repositorio con README claro y detallado  
-- [ ] Carpeta `/docs` con capturas o documentación  
